@@ -1,0 +1,11 @@
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\obj\Debug\netcoreapp2.2\CSIntro1.csprojAssemblyReference.cache
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\obj\Debug\netcoreapp2.2\CSIntro1.csproj.CoreCompileInputs.cache
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\obj\Debug\netcoreapp2.2\CSIntro1.AssemblyInfoInputs.cache
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\obj\Debug\netcoreapp2.2\CSIntro1.AssemblyInfo.cs
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\bin\Debug\netcoreapp2.2\CSIntro1.deps.json
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\bin\Debug\netcoreapp2.2\CSIntro1.runtimeconfig.json
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\bin\Debug\netcoreapp2.2\CSIntro1.runtimeconfig.dev.json
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\bin\Debug\netcoreapp2.2\CSIntro1.dll
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\bin\Debug\netcoreapp2.2\CSIntro1.pdb
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\obj\Debug\netcoreapp2.2\CSIntro1.dll
+C:\Users\Willie Whitson\source\repos\CSIntro1\CSIntro1\obj\Debug\netcoreapp2.2\CSIntro1.pdb
